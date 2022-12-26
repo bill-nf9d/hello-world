@@ -11,7 +11,7 @@ I wonder how to do lists?
 1. list
 2. list 2
 3. list 3
-4. OK, it's a number, a period followed by a space to create a list.
+4. OK, it's a number, then a period followed by a space to create an ordered list.
 
 Lists get automatically indented when published.
 
